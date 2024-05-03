@@ -1,7 +1,7 @@
-var link = document.querySelector("link[rel~='icon']");
-if (!link) {
-    link = document.createElement('link');
-    link.rel = 'icon';
-    document.head.appendChild(link);
-}
-link.href = 'https://stackoverflow.com/favicon.ico';
+master = window.parent.document;
+head = master.getElementsByTagName("head")[0];
+favicon = master.createElement("link");
+favicon.rel = "shortcut icon";
+favicon.type = "image/png";
+favicon.href = "//cdn.sstatic.net/stackoverflow/img/favicon.ico?v=038622610830";
+head.appendChild(favicon);
