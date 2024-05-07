@@ -8,6 +8,7 @@ const config = {
     mason: 'orangehair12',
     bigcashypoo: 'bakedbeans69',
     whipzyxtreamyt: 'breadandbeans87',
+    nyck: 'Basketball!'
     
   }
 }
