@@ -7,7 +7,7 @@ const config = {
     monkeyboy08: '*****-',
     mason: 'orangehair12',
     bigcashypoo: 'bakedbeans69',
-    whipzyxtreamyt: 'breadandbeans87',
+    Whipzyxtreamyt: 'breadandbeans87',
     nyck: 'Basketball3!',
     geanbean: 'ginob_24',
     emmett_dobroth: '5Whitney1!'
