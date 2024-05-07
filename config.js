@@ -11,7 +11,7 @@ const config = {
     nyck: 'Basketball3!',
     geanbean: 'ginob_24',
     emmett_dobroth: '5Whitney1!',
-    Mason_games: 'MasonG2009!'
+    Mason_games: 'MasonG2009'
     
   }
 }
