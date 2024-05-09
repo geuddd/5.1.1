@@ -14,7 +14,8 @@ const config = {
     Mason_games: 'MasonG2009',
     Bigdawg53: 'hood99',
     joshwillis: 'Walnut733',
-    samuelbikle: '02/19/09'
+    samuelbikle: '02/19/09',
+    ant: '01/28/09'
     
   }
 }
