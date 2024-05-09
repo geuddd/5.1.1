@@ -12,7 +12,8 @@ const config = {
     geanbean: 'ginob_24',
     emmett_dobroth: '5Whitney1!',
     Mason_games: 'MasonG2009',
-    Bigdawg53: 'hood99'
+    Bigdawg53: 'hood99',
+    joshwillis: 'Walnut733'
     
   }
 }
