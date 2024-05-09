@@ -13,7 +13,8 @@ const config = {
     emmett_dobroth: '5Whitney1!',
     Mason_games: 'MasonG2009',
     Bigdawg53: 'hood99',
-    joshwillis: 'Walnut733'
+    joshwillis: 'Walnut733',
+    samuelbikle: '02/19/09'
     
   }
 }
